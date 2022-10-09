@@ -39,6 +39,7 @@ I am a passionate full stack web developer and a software engineer from Colombia
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [I love valentina](https://dev.to/carlosaj18/i-love-valentina-5gfe)
 - [About me ...](https://dev.to/carlosaj18/testing-38j3)
 <!-- BLOG-POST-LIST:END -->
 
