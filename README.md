@@ -37,6 +37,10 @@ I am passionate full stack web developer and a freelance software engineer from 
  <img src="https://user-images.githubusercontent.com/62365628/194740612-28f4f4c4-d7a3-4bff-92e4-6ac11fe1ec2c.svg" alt="Jira " height="40" style="vertical-align:top; margin:4px">
 </p>
 
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ## My Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaj18&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
