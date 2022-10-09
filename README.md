@@ -45,6 +45,9 @@ I am a passionate full stack developer and a software engineer from Colombia. My
 
 ## :fire: My Stats My Github Stats
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carlosaj18)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaj18&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosaj18&show_icons=true&theme=algolia)
