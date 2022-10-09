@@ -39,7 +39,7 @@ I am passionate full stack web developer and a freelance software engineer from 
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Testing](https://dev.to/carlosaj18/testing-38j3)
+- [About me ...](https://dev.to/carlosaj18/testing-38j3)
 <!-- BLOG-POST-LIST:END -->
 
 ## My Github Stats
