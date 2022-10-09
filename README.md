@@ -50,3 +50,8 @@ I am a passionate full stack developer and a software engineer from Colombia. My
 
 ## ⚡ Inspiration
 "Learning is not preparing for life. Learning is life itself." John Dewey.
+
+
+<p align="center">
+  <a href="https://jesuslagares.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/48330849/172059498-bebfd793-1406-47e2-b1a4-bdee5a379823.jpg" alt="my banner"></a>
+</p>
