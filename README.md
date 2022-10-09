@@ -18,4 +18,4 @@ I am passionate full stack web developer and a freelance software engineer from 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosaj18&show_icons=true)
