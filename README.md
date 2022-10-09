@@ -21,26 +21,23 @@ I am a passionate full stack developer and a software engineer from Colombia. My
 
 ## :hammer_and_wrench: Languages and Tools:
  
-<p align="center">
- 
- <img src="https://user-images.githubusercontent.com/62365628/194740797-8fc2e51b-2662-4e6e-a808-c18c65d9b599.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/62365628/194740896-2073b8d4-c741-4659-8696-7f6c65c6bda5.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
-
-
- <img src="https://user-images.githubusercontent.com/62365628/194740033-c449b847-1e2e-4b45-b194-ece1dd85abdc.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/62365628/194740345-b7ef03cb-de7d-48af-884b-fc7a94b5c9b8.png" alt="django" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/62365628/194740751-293c9f64-2ea2-4270-ba63-94fbb773858d.png" alt="sprint boot" height="40" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/62365628/194740673-d2727201-deb4-4f2d-a332-0d0b262f9f53.png" alt="Jira " height="40" style="vertical-align:top; margin:4px">
- 
-
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-
-<img src="https://user-images.githubusercontent.com/62365628/194739636-bede2b60-f3b1-4627-91a5-d7b0b1adaf67.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/62365628/194739647-783bd9b8-ff0b-40a8-b2ff-a871881b59cb.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/62365628/194740612-28f4f4c4-d7a3-4bff-92e4-6ac11fe1ec2c.svg" alt="Jira " height="40" style="vertical-align:top; margin:4px">
-</p>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
