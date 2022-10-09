@@ -6,6 +6,11 @@ Tool & Language:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=carlosaj18.carlosaj18)
 
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 Most Use Languages: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaj18&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
