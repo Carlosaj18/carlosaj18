@@ -19,7 +19,8 @@ I am passionate full stack web developer and a freelance software engineer from 
 <p align="center">
  
  <img src="https://user-images.githubusercontent.com/62365628/194740797-8fc2e51b-2662-4e6e-a808-c18c65d9b599.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/62365628/194740858-97b71349-9c56-4b88-af10-1aabd55c22d4.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/62365628/194740896-2073b8d4-c741-4659-8696-7f6c65c6bda5.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+
 
  <img src="https://user-images.githubusercontent.com/62365628/194740033-c449b847-1e2e-4b45-b194-ece1dd85abdc.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/62365628/194740345-b7ef03cb-de7d-48af-884b-fc7a94b5c9b8.png" alt="django" height="40" style="vertical-align:top; margin:4px">
