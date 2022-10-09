@@ -10,9 +10,13 @@ I am passionate full stack web developer and a freelance software engineer from 
 
 languages and tools:
 
-https://user-images.githubusercontent.com/62365628/194737830-f1d01c44-2b92-409c-854f-d6ccc2269536.png
 
 ![javascript](https://user-images.githubusercontent.com/62365628/194737963-82d81ffd-46c9-4adf-a677-b2c2c4fc40a8.png)
+
+TypeScript   16 hrs 2 mins   ███████████████████████▒░   92.75 %
+JavaScript   1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 
 - 💬 Ask me about anything you want to know. 
 - 📫 How to reach me: cjaramilloportilla@gmail.com
