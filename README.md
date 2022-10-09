@@ -3,13 +3,11 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=carlosaj18.carlosaj18)
 [![Github](https://img.shields.io/github/followers/carlosaj18?label=Follow&style=social)](https://github.com/carlosaj18)
 
+I am a passionate full stack developer and a software engineer from Colombia. My passion for software is based on dreaming up ideas and making them come true through elegant interfaces. I make sure the experience, architecture, and code quality of the things I build are exellent. I am also an open-source enthusiast. I learned a lot from the open-source community and I love their emphasis on collaboration. 
+
 <div align="center">
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" height="300" style="vertical-align:top; margin:6px margin-bottom:20px"/>
 </div>
-
-
-
-I am a passionate full stack developer and a software engineer from Colombia. My passion for software is based on dreaming up ideas and making them come true through elegant interfaces. I make sure the experience, architecture, and code quality of the things I build are exellent. I am also an open-source enthusiast. I learned a lot from the open-source community and I love their emphasis on collaboration. 
 
 
 ## ✉️ Find me on:
