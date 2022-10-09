@@ -19,11 +19,10 @@ I am passionate full stack web developer and a freelance software engineer from 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/62365628/194740033-c449b847-1e2e-4b45-b194-ece1dd85abdc.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/62365628/194740345-b7ef03cb-de7d-48af-884b-fc7a94b5c9b8.png" alt="django" height="40" style="vertical-align:top; margin:4px">
-<img src="https://user-images.githubusercontent.com/62365628/194740403-a7a69915-e651-4ede-af42-c8ee337e3904.png" alt="sprint boot" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/62365628/194740708-cb64f8b5-3755-4456-b3e3-3c2916befca6.png" alt="sprint boot" height="40" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/62365628/194740673-d2727201-deb4-4f2d-a332-0d0b262f9f53.png" alt="Jira " height="40" style="vertical-align:top; margin:4px">
  
 
- 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
