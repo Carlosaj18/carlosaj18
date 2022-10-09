@@ -4,7 +4,7 @@
 [![Github](https://img.shields.io/github/followers/carlosaj18?label=Follow&style=social)](https://github.com/carlosaj18)
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" height="300" style="vertical-align:top; margin:6px"/>
+  <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" height="300" style="vertical-align:top; margin:6px margin-botom:10px"/>
 </div>
 
 
