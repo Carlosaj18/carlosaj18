@@ -10,10 +10,8 @@ I am passionate full stack web developer and a freelance software engineer from 
 <p align="center">
  <a href="https://github.com/Carlosaj18" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/carlos-jaramillo-full-stack-developer/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/194739705-0ee4a9d6-f0bc-4f6c-8c61-f4185af50ab6.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cjaramilloportilla@gmail.com"> <img src="https://user-images.githubusercontent.com/62365628/194739786-2d3bfb67-3949-4f78-aaf9-0dcc6715d49c.jpg" alt="Python" height="60" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:cjaramilloportilla@gmail.com"> <img src="https://user-images.githubusercontent.com/62365628/194739838-e3edd7d7-d40d-4435-8eaf-3bc7cffbc890.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
-
 
 <br />
 
