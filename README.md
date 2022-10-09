@@ -26,6 +26,10 @@ I am passionate full stack web developer and a freelance software engineer from 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+
+<img src="https://user-images.githubusercontent.com/62365628/194740797-8fc2e51b-2662-4e6e-a808-c18c65d9b599.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+
+
 <img src="https://user-images.githubusercontent.com/62365628/194739636-bede2b60-f3b1-4627-91a5-d7b0b1adaf67.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/62365628/194739647-783bd9b8-ff0b-40a8-b2ff-a871881b59cb.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/62365628/194740612-28f4f4c4-d7a3-4bff-92e4-6ac11fe1ec2c.svg" alt="Jira " height="40" style="vertical-align:top; margin:4px">
