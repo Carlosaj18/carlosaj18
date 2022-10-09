@@ -52,4 +52,4 @@ I am a passionate full stack developer and a software engineer from Colombia. My
 "Learning is not preparing for life. Learning is life itself." John Dewey.
 
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)](https://open.spotify.com/user/jeffreyca16)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31b5ispwn4x2hekh6aael3vcnjia)](https://open.spotify.com/user/31b5ispwn4x2hekh6aael3vcnjia)
