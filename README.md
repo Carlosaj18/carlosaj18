@@ -9,7 +9,6 @@ I am a passionate full stack developer and a software engineer from Colombia. My
   <a href="https://jesuslagares.com/" target="_blank" rel="noreferrer"><img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="my banner">   </a>
 </p>
 
-
 ## ✉️ Find me on:
 
 <p align="center">
