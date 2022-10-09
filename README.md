@@ -19,15 +19,10 @@ I am passionate full stack web developer and a freelance software engineer from 
  
 <p align="center">
  <img src="https://user-images.githubusercontent.com/62365628/194740033-c449b847-1e2e-4b45-b194-ece1dd85abdc.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/62365628/194740033-c449b847-1e2e-4b45-b194-ece1dd85abdc.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
-
+<img src="https://user-images.githubusercontent.com/62365628/194740345-b7ef03cb-de7d-48af-884b-fc7a94b5c9b8.png" alt="django" height="40" style="vertical-align:top; margin:4px">
+<img src="https://user-images.githubusercontent.com/62365628/194740403-a7a69915-e651-4ede-af42-c8ee337e3904.png" alt="django" height="40" style="vertical-align:top; margin:4px">
 </p>
- 
-TypeScript   16 hrs 2 mins   ███████████████████████▒░   92.75 %
-JavaScript   1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
- 
+
 ## 🧰 Frontend Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
