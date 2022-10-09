@@ -13,9 +13,9 @@ I am a passionate full stack developer and a software engineer from Colombia. My
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://github.com/Carlosaj18" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/194740069-f1688efc-8e23-41a8-93df-ddb4ff23c26e.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://github.com/Carlosaj18" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/carlos-jaramillo-full-stack-developer/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cjaramilloportilla@gmail.com"> <img src="https://user-images.githubusercontent.com/62365628/194740134-6564925a-8315-4f20-8849-6fef859ebb05.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:cjaramilloportilla@gmail.com"> <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p
 <br />
 
