@@ -19,7 +19,7 @@ I am a passionate full stack developer and a software engineer from Colombia. My
 </p
 <br />
 
-## 🧰 Tools & Frameworks:
+## :hammer_and_wrench: Languages and Tools:
  
 <p align="center">
  
