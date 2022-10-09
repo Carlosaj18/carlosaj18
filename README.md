@@ -10,7 +10,7 @@ I am passionate full stack web developer and a freelance software engineer from 
 <p align="center">
  <a href="https://github.com/Carlosaj18" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/194740069-f1688efc-8e23-41a8-93df-ddb4ff23c26e.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/carlos-jaramillo-full-stack-developer/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/194739705-0ee4a9d6-f0bc-4f6c-8c61-f4185af50ab6.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cjaramilloportilla@gmail.com"> <img src="[https://user-images.githubusercontent.com/62365628/194739838-e3edd7d7-d40d-4435-8eaf-3bc7cffbc890.png](https://user-images.githubusercontent.com/62365628/194740116-eee01f5d-f38c-4f4d-a5e2-615ef6a97997.png)" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:cjaramilloportilla@gmail.com"> <img src="https://user-images.githubusercontent.com/62365628/194740134-6564925a-8315-4f20-8849-6fef859ebb05.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p
 <br />
 
