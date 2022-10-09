@@ -1,4 +1,4 @@
-# Hi, I'm Carlos Jaramillo 👋
+# Hi, I'm Carlos Jaramillo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=carlosaj18.carlosaj18)
 [![Github](https://img.shields.io/github/followers/carlosaj18?label=Follow&style=social)](https://github.com/carlosaj18)
@@ -9,10 +9,6 @@ I am a passionate full stack developer and a software engineer from Colombia. My
   <a href="https://jesuslagares.com/" target="_blank" rel="noreferrer"><img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" alt="my banner">   </a>
 </p>
 
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 ## ✉️ Find me on:
 
