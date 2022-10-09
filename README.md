@@ -3,6 +3,8 @@
 I am passionate full stack web developer and a freelance software engineer from Colombia. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=carlosaj18.carlosaj18)
+[![Github](https://img.shields.io/github/followers/carlosaj18?label=Follow&style=social)](https://github.com/carlosaj18)
+
 
 ## ✉️ Find me on:
 
@@ -22,7 +24,7 @@ I am passionate full stack web developer and a freelance software engineer from 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/62365628/194739636-bede2b60-f3b1-4627-91a5-d7b0b1adaf67.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://user-images.githubusercontent.com/62365628/194739647-783bd9b8-ff0b-40a8-b2ff-a871881b59cb.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-<img src="[https://user-images.githubusercontent.com/62365628/194739647-783bd9b8-ff0b-40a8-b2ff-a871881b59cb.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px](https://user-images.githubusercontent.com/62365628/194739649-0e7cd471-f0d5-47a7-aff0-e88c1eca3ed7.png)">
+ 
 </p>
 
 ## My Github Stats
