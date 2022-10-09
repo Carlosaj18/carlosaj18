@@ -12,6 +12,8 @@ I am passionate full stack web developer and a freelance software engineer from 
 - 📫 How to reach me: cjaramilloportilla@gmail.com
 - ⚡ "Learning is not preparing for life. Learning is life itself." John Dewey.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
