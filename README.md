@@ -15,13 +15,18 @@ I am passionate full stack web developer and a freelance software engineer from 
 <br />
 
 
-## 🧰 Backend Tools:
+## 🧰 Backend Tools & Frameworks:
  
 <p align="center">
-<img src="https://user-images.githubusercontent.com/62365628/194740033-c449b847-1e2e-4b45-b194-ece1dd85abdc.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
-
+ <img src="https://user-images.githubusercontent.com/62365628/194740033-c449b847-1e2e-4b45-b194-ece1dd85abdc.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/62365628/194740033-c449b847-1e2e-4b45-b194-ece1dd85abdc.png" alt="Node.js" height="40" style="vertical-align:top; margin:4px">
 
 </p>
+ 
+TypeScript   16 hrs 2 mins   ███████████████████████▒░   92.75 %
+JavaScript   1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
+Bash         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
  
 ## 🧰 Frontend Tools:
 <p align="center">
