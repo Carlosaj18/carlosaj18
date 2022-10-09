@@ -8,7 +8,7 @@ I am passionate full stack web developer and a freelance software engineer from 
 ## ✉️ Find me on:
 
 <p align="center">
- <a href="https://github.com/Carlosaj18" target="_blank" rel="noopener noreferrer"> <img src="[https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg](https://user-images.githubusercontent.com/62365628/194739862-2465568c-8b33-4a22-b350-82f4b1a5d232.png)" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://github.com/Carlosaj18" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg](https://user-images.githubusercontent.com/62365628/194739862-2465568c-8b33-4a22-b350-82f4b1a5d232.png" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/carlos-jaramillo-full-stack-developer/" target="_blank" rel="noopener noreferrer"> <img src="https://user-images.githubusercontent.com/62365628/194739705-0ee4a9d6-f0bc-4f6c-8c61-f4185af50ab6.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:cjaramilloportilla@gmail.com"> <img src="https://user-images.githubusercontent.com/62365628/194739838-e3edd7d7-d40d-4435-8eaf-3bc7cffbc890.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
