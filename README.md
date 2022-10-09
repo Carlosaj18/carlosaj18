@@ -4,7 +4,7 @@ I am passionate full stack web developer and a freelance software engineer from 
 
 Most Use Languages: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaj18&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaj18&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 GitHub Stats: 
