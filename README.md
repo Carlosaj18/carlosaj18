@@ -13,7 +13,7 @@ GitHub Stats:
 
 Repo Cards: 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosaj18&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaj18)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💬 Ask me about anything you want to know. 
 - 📫 How to reach me: cjaramilloportilla@gmail.com
