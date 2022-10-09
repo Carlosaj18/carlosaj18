@@ -4,16 +4,13 @@ I am passionate full stack web developer and a freelance software engineer from 
 
 Most Use Languages: 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaj18&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaj18&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
 GitHub Stats: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosaj18&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosaj18&show_icons=true&theme=transparent)
 
-Repo Cards: 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosaj18&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💬 Ask me about anything you want to know. 
 - 📫 How to reach me: cjaramilloportilla@gmail.com
