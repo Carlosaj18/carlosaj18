@@ -38,12 +38,12 @@ I am a passionate full stack developer and a software engineer from Colombia. My
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
-## Blog posts
+## :writing_hand: Blog Posts Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [About me ...](https://dev.to/carlosaj18/testing-38j3)
 <!-- BLOG-POST-LIST:END -->
 
-## My Github Stats
+## :fire: My Stats My Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosaj18&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
