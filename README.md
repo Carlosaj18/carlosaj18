@@ -53,4 +53,5 @@ I am a passionate full stack developer and a software engineer from Colombia. My
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosaj18&show_icons=true&theme=algolia)
 
 ## ⚡ Inspiration
-"Learning is not preparing for life. Learning is life itself." John Dewey.
+"Tell me and I forget. Teach me and I remember. Involve me and I learn."
+    Benjamin Franklin
