@@ -1,7 +1,6 @@
 # Hi, I'm Carlos Jaramillo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=carlosaj18.carlosaj18)
-[![Github](https://img.shields.io/github/followers/carlosaj18?label=Follow&style=social)](https://github.com/carlosaj18)
 
 Lawyer and Frontend Web Developer, with 3+ experience. My work background has been focused on planning and executing Full Stack projects, using bottom-up methodology for the design, development, testing and deployment of each of the software layers; UX/UI design; React and microservices architecture, APIs and communication protocols for interaction between them.
 
