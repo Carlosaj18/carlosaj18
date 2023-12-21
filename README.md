@@ -2,8 +2,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=carlosaj18.carlosaj18)
 
-Lawyer and Frontend Web Developer, with 3+ experience. My work background has been focused on planning and executing Full Stack projects, using bottom-up methodology for the design, development, testing and deployment of each of the software layers; UX/UI design; React and microservices architecture, APIs and communication protocols for interaction between them.
-
+Software Developer with over 3 years of experience, specializing in planning and executing Full Stack projects. I employ a bottom-up methodology, encompassing design, development, testing, and deployment across software layers. Proficient in UX/UI design, React, microservices architecture, and APIs. Skilled in integrating React Native and Next.js for enhanced mobile and web application development, alongside adept management of communication protocols for seamless interaction between various layers.
 <div align="center">
   <img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="600" height="300" style="vertical-align:top; margin:6px margin-bottom:20px"/>
 </div>
