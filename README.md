@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=carlosaj18.carlosaj18)
 
-<div align="justify"> Software Developer with over 3 years of experience, specializing in planning and executing Full Stack projects. I employ a bottom-up methodology, encompassing design, development, testing, and deployment across software layers. Proficient in UX/UI design, React, microservices architecture, and APIs. Skilled in integrating React Native and Next.js for enhanced mobile and web application development, alongside adept management of communication protocols for seamless interaction between various layers.
+<div align="justify"> Software Developer with over 7 years of experience, specializing in planning and executing Full Stack projects. I employ a bottom-up methodology, encompassing design, development, testing, and deployment across software layers. Proficient in UX/UI design, React, microservices architecture, and APIs. Skilled in integrating React Native and Next.js for enhanced mobile and web application development, alongside adept management of communication protocols for seamless interaction between various layers.
  <br><br>
    </div>
 
@@ -16,8 +16,8 @@
 
 <p align="center">
  <a href="https://github.com/Carlosaj18" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/carlos-jaramillo-full-stack-developer/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cjaramilloportilla@gmail.com"> <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:@.com"> <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p
 <br />
 
